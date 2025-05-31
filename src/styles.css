@@ -44,11 +44,15 @@ ul {
 }
 
 p {
-  font-size: large;
-  color: black;
-  margin-top: 1rem;
-  text-align: center;
-}
+  display: inline-block;
+    margin-top: 1rem;
+    gap: 10px;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+  }
 
 #tickets-sale {
   font-size: 30px;

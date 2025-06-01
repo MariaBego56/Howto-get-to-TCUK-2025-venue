@@ -120,3 +120,16 @@ p {
   font-weight: bold;
 
 }
+#download-directions {
+
+      display: inline-block;
+      text-align: center;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+  
+    }
+

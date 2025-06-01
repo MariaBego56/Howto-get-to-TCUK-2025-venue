@@ -49,12 +49,19 @@ h3 {
     margin: 0 auto;
     color: #fff;
  }
+ #email-hotel:hover {
+   background-color: #a6cdcd;
+ }
  
  #telnumber-hotel {
    text-align: center;
    text-decoration: none;
    margin: 0 auto;
    color: #fff;
+ }
+
+ #telnumber-hotel:hover {
+   background-color: #a6cdcd;
  }
  .transport-table {
    width: 100%;

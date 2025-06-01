@@ -67,21 +67,19 @@ h3 {
 
  .transport-table td:first-child {
    width: 160px;
-   /* Force a consistent width for the first column */
    white-space: nowrap;
-   /* Prevent wrapping */
+ 
  }
 
  .transport-table td:last-child {
    width: calc(100% - 160px);
    padding-left: 1rem;
-   /* Add spacing so it aligns visually with left column text */
+
  }
 
  .transport-table a {
-   color: #0066cc;
-   text-decoration: underline;
- }
+  text-decoration: none;
+    color: #bee0e0;
  
 ul {
 
@@ -101,11 +99,7 @@ p {
     border-radius: 6px;
     font-weight: bold;
   }
-  a {
-    text-decoration: none;
-    color: #bee0e0;
 
-  }
  
 #tickets-sale {
   font-size: 30px;

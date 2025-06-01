@@ -34,6 +34,11 @@ h3 {
   font-size: 30px;
   font-weight: bold;
 }
+#venue.hotel:hover{
+      background-color: #a6cdcd;
+    }
+
+
 #email-hotel   { 
   text-align: center;
     text-decoration: none;
@@ -137,4 +142,5 @@ p {
      }
 
          #download-directions:hover {
-           background-color: #a6cdcd;   }
+           background-color: #a6cdcd;  
+          }

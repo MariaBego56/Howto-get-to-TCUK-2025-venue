@@ -47,12 +47,42 @@ h3 {
    margin: 0 auto;
    color: #fff;
  }
- .transport-table{
-  margin-top:50px;
-column-gap: 40px;
-
+ .transport-table {
+   width: 100%;
+   border-collapse: collapse;
+   margin-top: 2rem;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+   table-layout: fixed;
  }
 
+ .transport-table td,
+ .transport-table th {
+   vertical-align: top;
+   padding: 1rem;
+   border-bottom: 1px solid #ddd;
+   text-align: left;
+ }
+
+ .transport-table td:first-child {
+   width: 160px;
+   /* Force a consistent width for the first column */
+   white-space: nowrap;
+   /* Prevent wrapping */
+ }
+
+ .transport-table td:last-child {
+   width: calc(100% - 160px);
+   padding-left: 1rem;
+   /* Add spacing so it aligns visually with left column text */
+ }
+
+ .transport-table a {
+   color: #0066cc;
+   text-decoration: underline;
+ }
+ 
 ul {
 
   padding-left: 1.2rem;

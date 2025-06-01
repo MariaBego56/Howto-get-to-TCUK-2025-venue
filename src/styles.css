@@ -58,13 +58,6 @@ h3 {
  }
  
 
- .transport-table td,
- .transport-table th {
-   vertical-align: top;
-   padding: 1rem;
-   border-bottom: 1px solid #ddd;
-   text-align: left;
- }
 
  .transport-table td:first-child {
    max-width: 160px;

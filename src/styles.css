@@ -34,13 +34,13 @@ h3 {
   font-size: 30px;
   font-weight: bold;
 }
-.email-hotel   { 
+#email-hotel   { 
   text-align: center;
     text-decoration: none;
     margin: 0 auto;
  }
  
- .telnumber-hotel {
+ #telnumber-hotel {
    text-align: center;
    text-decoration: none;
    margin: 0 auto;

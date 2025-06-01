@@ -32,7 +32,7 @@ h3 {
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -54,7 +54,12 @@ p {
     border-radius: 6px;
     font-weight: bold;
   }
+  .hotelcontactdetails{
 
+    text-align: center;
+    margin: 0 auto;
+    
+  }
 #tickets-sale {
   font-size: 30px;
   font-weight: 600;

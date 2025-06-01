@@ -121,6 +121,7 @@ p {
 
 }
 #download-directions {
+  display: inline-block;
   background-color: #bee0e0;
   color: whitesmoke;
     padding: 1rem;

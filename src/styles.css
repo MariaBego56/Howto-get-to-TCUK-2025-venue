@@ -157,3 +157,7 @@ p {
          #download-directions:hover {
            background-color: #a6cdcd;  
           }
+
+          #download-copy{
+            color:whitesmoke;
+          }

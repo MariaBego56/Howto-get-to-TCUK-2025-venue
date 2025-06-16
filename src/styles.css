@@ -128,6 +128,13 @@ p {
 
 }
 
+#parkingGuests{
+  list-style-type: circle;
+}
+#parkingNonguests {
+  list-style-type: circle;
+}
+
 #tcuk-istc {
   display: inline-block;
   text-align: center;
